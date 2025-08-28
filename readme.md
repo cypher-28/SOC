@@ -5,7 +5,7 @@ Step By Step Guide:
 
 2. Run the script
 
-``` python3 detector_full_candidate_name.py input.csv output.csv ```
+``` python3 detector_Mehul_Jaiswal.py input.csv output.csv ```
 
 ```
 Note:-
